@@ -2,7 +2,7 @@
 Using TensorFlow to train a Keras model to suggest the best credit card based on customer information and transaction history.
 
 
-From [devpost](https://devpost.com/software/mycard):
+From our [devpost](https://devpost.com/software/mycard):
 
 ## Inspiration
 When we look at our student mailboxes, we find ourselves getting spammed by banks like American Express, encouraging us to sign up for their credit cards. When looking online to see which credit card we should select, we are bombarded with lots of percent-values and not much understanding of which card would benefit us the best. 
